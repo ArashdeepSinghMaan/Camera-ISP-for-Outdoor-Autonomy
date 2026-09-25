@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "camera-isp"
+version = "0.1.0"
+description = "Adaptive Camera ISP for Outdoor Robotic Perception"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+include = ["camera_isp*"]
