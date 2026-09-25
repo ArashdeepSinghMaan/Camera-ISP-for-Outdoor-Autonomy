@@ -1,0 +1,33 @@
+python scripts/inspect_dataset.py \
+    --root /path/to/INTEL-TAU
+    
+python scripts/inspect_dataset.py \
+    --root /path/to/INTEL-TAU
+    
+    
+find /path/to/INTEL-TAU \
+    -type f \
+    -name "*.mat" \
+    | head -20
+    
+find /path/to/INTEL-TAU \
+    -type f \
+    -name "*.plain16" \
+    | head -20  
+ 
+ 
+ 
+find /path/to/INTEL-TAU \
+    -type f \
+    -name "*.wp" \
+    | head -20
+    
+    
+  
+find /path/to/INTEL-TAU \
+    -type f \
+    -name "*.ccm" \
+    | head -20
+    
+
+

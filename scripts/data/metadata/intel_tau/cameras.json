@@ -1,0 +1,39 @@
+{
+  "field_3_cameras": {
+    "path": "/media/hitech/WD_Access/Camera_ISP/Sony_IMX135/field_3_cameras",
+    "categories": [],
+    "file_count": 721,
+    "extensions": {
+      ".wp": 144,
+      ".png": 1,
+      ".ccm": 144,
+      ".jpg": 144,
+      ".meta": 144,
+      ".plain16": 144
+    }
+  },
+  "lab_printouts": {
+    "path": "/media/hitech/WD_Access/Camera_ISP/Sony_IMX135/lab_printouts",
+    "categories": [],
+    "file_count": 1500,
+    "extensions": {
+      ".ccm": 300,
+      ".jpg": 300,
+      ".meta": 300,
+      ".plain16": 300,
+      ".wp": 300
+    }
+  },
+  "lab_realscene": {
+    "path": "/media/hitech/WD_Access/Camera_ISP/Sony_IMX135/lab_realscene",
+    "categories": [],
+    "file_count": 100,
+    "extensions": {
+      ".ccm": 20,
+      ".jpg": 20,
+      ".meta": 20,
+      ".plain16": 20,
+      ".wp": 20
+    }
+  }
+}

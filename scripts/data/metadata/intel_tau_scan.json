@@ -1,0 +1,18 @@
+{
+  "root": "/media/hitech/WD_Access/Camera_ISP/Sony_IMX135",
+  "total_files": 2322,
+  "extensions": {
+    ".py": 1,
+    ".wp": 464,
+    ".png": 1,
+    ".ccm": 464,
+    ".jpg": 464,
+    ".meta": 464,
+    ".plain16": 464
+  },
+  "top_level_directories": [
+    "field_3_cameras",
+    "lab_printouts",
+    "lab_realscene"
+  ]
+}
